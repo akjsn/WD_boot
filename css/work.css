@@ -1,0 +1,133 @@
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.serviceitems{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 16px;
+    text-decoration-color: #6c6c6c;
+}
+
+.topdata{
+    margin-top:100px;
+    margin-bottom:100px;
+}
+
+.motto{
+    width: 1440px;
+    height: 782px;
+    background-image: url(../img/top-banner.jpg);
+}
+
+.about{
+    width: 1440px;
+    height: 754px;
+    background-image: url(../img/about-bg.jpg);
+}
+
+.service{
+    width: 1440px;
+    height: 667px;
+    background-image: url(../img/service-bg.jpg);
+}
+
+.team{
+    width: 1440px;
+    height: 782px;
+}
+
+.contact{
+    width: 1440px;
+    height: 437px;
+    background-image: url(../img/footer-bg.jpg);
+}
+
+.textdata{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.itemdata{
+    width: 270px;
+    height: 60px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 16px;
+    text-decoration-color: #6c6c6c;
+}
+
+.imgprof{
+    width: 270px;
+    height: 400px;
+}
+
+.persprof{
+    width: 300px;
+    height: 400px;
+}
+
+.btn {
+    border: solid 1px;
+    background-color: white;
+    color: #d7ac41;
+    width: 270px;
+    height: 60px;
+    text-decoration: none !important;
+    margin: 0 585px 100px;
+    vertical-align: center;
+}
+
+.copyright{
+    font-size: 16px;
+}
+
+p{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.pw{
+    text-decoration-color: white;
+}
+
+h1{
+    font-size:80px;
+    font-weight:600;
+    letter-spacing: 10px;
+}
+
+h2{
+    font-size:50px;
+    font-weight:600;
+}
+
+b{
+    font-size: 24px;
+    font-weight:600;
+}
+
+.shadow{
+    text-shadow: 0 2px 4px rgba(0,0,0,0.5);
+}
+
+nav{
+    width: 1440px;
+    height: 130px;
+}
+
+footer{
+    width: 1440px;
+    height: 48px;
+    color: #2b2c2c;
+}
+
+section{
+    margin-top: 0;
+    margin-bottom: 0;
+}
