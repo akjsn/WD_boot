@@ -9,12 +9,25 @@
     margin-top: 15px;
     margin-bottom: 15px;
     font-size: 16px;
-    text-decoration-color: #6c6c6c;
+    color: #6c6c6c;
+}
+
+.toptitle{
+	padding-top:335px;
+	padding-bottom:335px;
 }
 
 .topdata{
-    margin-top:100px;
-    margin-bottom:100px;
+    padding-top: 100px;
+}
+
+.topdata h2{
+	color: #4a494b;
+}
+
+.maincontainer{
+	padding-top: 130px;
+	align-content: start;
 }
 
 .motto{
@@ -27,6 +40,8 @@
     width: 1440px;
     height: 754px;
     background-image: url(../img/about-bg.jpg);
+	padding-left:335px;
+	padding-right:335px;
 }
 
 .service{
@@ -38,9 +53,11 @@
 .team{
     width: 1440px;
     height: 782px;
+	padding-left:135px;
 }
 
 .contact{
+	padding-left:135px;
     width: 1440px;
     height: 437px;
     background-image: url(../img/footer-bg.jpg);
@@ -59,17 +76,29 @@
     margin-top: 30px;
     margin-bottom: 30px;
     font-size: 16px;
-    text-decoration-color: #6c6c6c;
+    color: #6c6c6c;
+}
+
+.sc{
+	width: 270px;
+	height: 60px;	
 }
 
 .imgprof{
     width: 270px;
     height: 400px;
+	float: left;
 }
 
 .persprof{
+	padding-left: 90px;
     width: 300px;
     height: 400px;
+	float: left;
+}
+
+.btnarea{
+	padding-top: 60px;
 }
 
 .btn {
@@ -83,8 +112,22 @@
     vertical-align: center;
 }
 
+.con_a{
+	float: left;
+}
+
+.con_b{
+	float: left;
+	margin-left: 110px;
+}
+
 .copyright{
     font-size: 16px;
+}
+
+nav{
+	background-color: white;
+	border-color: black;
 }
 
 p{
@@ -93,7 +136,7 @@ p{
 }
 
 .pw{
-    text-decoration-color: white;
+    color: white;
 }
 
 h1{
@@ -119,6 +162,10 @@ b{
 nav{
     width: 1440px;
     height: 130px;
+}
+
+nav a{
+	hover: #d7ac41;
 }
 
 footer{
